@@ -1,7 +1,7 @@
 trigger:
 - main
 pool:
-  name: Default\DESKTOP
+  name: Azure Pipelines\Hosted Agent
 variables:
   buildConfiguration: 'Release'
 steps:
