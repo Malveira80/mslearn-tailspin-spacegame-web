@@ -1,7 +1,7 @@
 trigger:
 - main
 pool:
-  name: DESKTOP
+  name: Default\DESKTOP
 variables:
   buildConfiguration: 'Release'
 steps:
