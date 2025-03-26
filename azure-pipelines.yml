@@ -1,7 +1,7 @@
 trigger:
 - main
 pool:
-  vmImage: ubuntu-latest
+  name: Hosted Agent
 variables:
   buildConfiguration: 'Release'
 steps:
